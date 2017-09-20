@@ -108,3 +108,8 @@ ENV/
 
 # work in progress
 work_in_progress/
+
+# data
+data/
+data/jcb_sorted.csv
+data/jem_sorted.csv
