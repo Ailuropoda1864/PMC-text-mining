@@ -103,5 +103,8 @@ ENV/
 # Mac
 .DS_Store
 
-# No raw text files
+# raw text files
 *.nxml
+
+# work in progress
+work_in_progress/
